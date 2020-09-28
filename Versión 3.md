@@ -1,4 +1,4 @@
-# Dr ulises pintons
+# Dr ulises olivares
 1. lunes
    - 10 a 12
 2. martes
