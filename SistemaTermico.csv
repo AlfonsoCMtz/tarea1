@@ -1,4 +1,4 @@
-﻿"Soil thermal conductivity, λ [W/m· °C]","Vertical well depth, h [m]","Well diameter, d [mm]","U-tube thickness, δ [mm]","Water flow rate, G [m3/h]","Water temperature difference, Δt [°C]","Heat transfer rate, Q [W/m]"
+﻿"Soil thermal conductivity","Vertical well depth","Well diameter","U-tube thickness","Water flow rate","Water temperature difference","Heat transfer rate"
 1.41,100,180,3,1.15,4.04,53.9
 1.41,125,180,3,1.15,4.86,52
 1.41,100,180,3,1.15,3.18,42.4
